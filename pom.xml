@@ -4,7 +4,7 @@
   <name>PMS: Portable Messaging System</name>
   <groupId>com.miriamlaurel.pms</groupId>
   <artifactId>miriamlaurel-pms</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <url>http://www.miriamlaurel.com/products/pms</url>
   <dependencies>
   </dependencies>
